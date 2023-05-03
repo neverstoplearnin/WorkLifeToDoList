@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "751104558685",
+    "project_id": "fireapp-783f5",
+    "storage_bucket": "fireapp-783f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751104558685:android:62e0db031df4259ddcafb4",
+        "android_client_info": {
+          "package_name": "com.example.worklifetodolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751104558685-477gme2a7btmlgpl3kqop97vfehg5e9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChKzcaHf8YAo3Tnvi07I6msnAoxhWoBuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751104558685-477gme2a7btmlgpl3kqop97vfehg5e9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "448991069098",
+    "project_id": "authorize-ab3d2",
+    "storage_bucket": "authorize-ab3d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448991069098:android:65dfd88439413c4e5ba1d3",
+        "android_client_info": {
+          "package_name": "com.example.worklifetodolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448991069098-njn2sfpfi7l2a4t7spqgbvgmu1jl62ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDho9lKU1XmTugeaDy1QKiKSW3R2Vm9G8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448991069098-njn2sfpfi7l2a4t7spqgbvgmu1jl62ts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
